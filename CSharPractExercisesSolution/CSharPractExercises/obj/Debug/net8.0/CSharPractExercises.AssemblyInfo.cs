@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharPractExercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec0bf06671b74a25d02f474f0609caededdc7bb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharPractExercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharPractExercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\bin\Debug\net8.0\CSharPractExercises.exe
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\bin\Debug\net8.0\CSharPractExercises.deps.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\bin\Debug\net8.0\CSharPractExercises.runtimeconfig.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\bin\Debug\net8.0\CSharPractExercises.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\bin\Debug\net8.0\CSharPractExercises.pdb
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.AssemblyInfoInputs.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.AssemblyInfo.cs
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.csproj.CoreCompileInputs.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.sourcelink.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\refint\CSharPractExercises.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.pdb
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\CSharPractExercises.genruntimeconfig.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\CSharPractExercises\obj\Debug\net8.0\ref\CSharPractExercises.dll
