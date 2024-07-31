@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CSharPractExercises/1.0.0": {
+      "D_OOP/1.0.0": {
         "runtime": {
-          "CSharPractExercises.dll": {}
+          "D_OOP.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharPractExercises/1.0.0": {
+    "D_OOP/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

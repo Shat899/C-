@@ -1,0 +1,27 @@
+Class Program - starting program
+
+Declare method (modifier access)
+void					- method return nothing, just doing, 
+private void - it has no access from the outside
+public void - it has access from the outside Assembly afte it added in references
+internal - it has access from the outside just in Assembly
+static - don't create exemplare clase, method 
+--------------------------------------------------------------------------
+public int Health 
+        {
+            get
+            {
+                return health;
+            }
+            set
+            {
+                health = value;
+            }
+        }
+
+         public int Health { get; private set; } = 100; same constuction
+
+In this code block we describe the property variable for exterior code
+------------------------------------------------------------------------
+
+

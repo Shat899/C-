@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\CSharPractExercises\\CSharPractExercises.csproj",
-      "projectName": "CSharPractExercises",
-      "projectPath": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\CSharPractExercises\\CSharPractExercises.csproj",
+      "projectUniqueName": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\D_OOP\\D_OOP.csproj",
+      "projectName": "D_OOP",
+      "projectPath": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\D_OOP\\D_OOP.csproj",
       "packagesPath": "C:\\Users\\satra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\CSharPractExercises\\obj\\",
+      "outputPath": "C:\\Users\\satra\\OneDrive\\Рабочий стол\\C-Sharp\\CSharPractExercisesSolution\\D_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

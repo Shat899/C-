@@ -40,7 +40,7 @@ namespace D_OOP
 
               Console.WriteLine(number);
 
-              */
+              
 
             PointVal a;  //= new PointVal() //is same
             a.x = 3;
@@ -72,6 +72,34 @@ namespace D_OOP
             d.LogValues();
 
             Console.WriteLine("After structs");
+            */
+
+            var list = new List<int>();
+
+            AddNumbers(list);
+
+            foreach (var item in list) 
+            {
+
+                Console.WriteLine(item);
+
+            }
+
+            static void AddNumbers(List<int> numbers) 
+            {
+                
+                numbers.Add(1);
+                numbers.Add(2);
+                numbers.Add(3);
+
+            }
+
+            static void ValRefTypesDemo()
+            {
+
+
+
+            }
         }
     }
 

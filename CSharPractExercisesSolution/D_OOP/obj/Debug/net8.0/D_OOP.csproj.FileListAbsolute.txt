@@ -1,0 +1,15 @@
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\bin\Debug\net8.0\D_OOP.exe
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\bin\Debug\net8.0\D_OOP.deps.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\bin\Debug\net8.0\D_OOP.runtimeconfig.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\bin\Debug\net8.0\D_OOP.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\bin\Debug\net8.0\D_OOP.pdb
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.AssemblyInfoInputs.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.AssemblyInfo.cs
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.csproj.CoreCompileInputs.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.sourcelink.json
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\refint\D_OOP.dll
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.pdb
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\D_OOP.genruntimeconfig.cache
+C:\Users\satra\OneDrive\Рабочий стол\C-Sharp\CSharPractExercisesSolution\D_OOP\obj\Debug\net8.0\ref\D_OOP.dll
